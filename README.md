@@ -10,8 +10,8 @@ a.foobar {
 }
 </style>
 
-<summary class="btn btn-primary">
-[Run the example on line](https://mybinder.org/v2/gh/GaelVaroquaux/test-split-prediction-models/master?filepath=demo.ipynb)
-</summary>
+<a class="btn btn-primary" role="button" href="https://mybinder.org/v2/gh/GaelVaroquaux/test-split-prediction-models/master?filepath=demo.ipynb">
+Run the example on line
+</a>
 
 [View the executed example](https://nbviewer.jupyter.org/github/GaelVaroquaux/test-split-prediction-models/blob/master/demo.ipynb)
