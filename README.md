@@ -3,9 +3,15 @@
 A simple exammple to demonstrate the difference between error on the data
 used for model fit and prediction error on new data.
 
+<style
+  type="text/css">
+a.foobar {
+    color:red;
+}
+</style>
 
-<button class="btn btn-primary" type="button" href="https://mybinder.org/v2/gh/GaelVaroquaux/test-split-prediction-models/master?filepath=demo.ipynb">
-Run the example on line
-</button>
+<div class="card">
+[Run the example on line](https://mybinder.org/v2/gh/GaelVaroquaux/test-split-prediction-models/master?filepath=demo.ipynb)
+</div>
 
 [View the executed example](https://nbviewer.jupyter.org/github/GaelVaroquaux/test-split-prediction-models/blob/master/demo.ipynb)
